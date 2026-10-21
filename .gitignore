@@ -1,0 +1,22 @@
+# Source repository: do not accidentally publish packaged mods or local media.
+*.class
+*.jar
+*.exe
+*.mp4
+*.mkv
+*.ogg
+*.wav
+*.gb
+*.gbc
+*.nes
+*.wad
+*.zip
+*.blend
+*.blend1
+*.png
+build/
+dist/
+*.log
+*.tmp
+__pycache__/
+*.pyc
